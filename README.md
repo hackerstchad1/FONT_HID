@@ -1,23 +1,16 @@
 # FONT-HID
 
-**Système de Thématisation Hacker/Pirate pour Linux**
+<img width="1248" height="832" alt="OIG2 gbQ0B7H2xzgTR" src="https://github.com/user-attachments/assets/82081d6c-6be0-4ed8-bd05-ca3f460f3860" />
 
+
+**Système de Thématisation Hacker/Pirate pour Linux**
 **Développé par HiddenWorld Communauté Tchadienne**
 
 ---
 
-## 🎯 Description
-
 FONT-HID transforme complètement ton système Linux en environnement visuel de type hacker/pirate avec transparence, effets spéciaux, et fonctionnalités avancées. Inspiré des films et de la culture cyberpunk.
 
-## ⚠️ Avertissements
-
-- **Sauvegarde** tes configurations avant utilisation
-- Ce script modifie le thème GTK, les icônes, le terminal, le fond d'écran, et les fichiers de configuration
-- Fonctionne principalement sur Ubuntu/Debian avec GNOME ou XFCE
-- Certaines fonctionnalités nécessitent `picom` ou `compton` pour la transparence
-
-## 🚀 Installation
+Installation
 
 ```bash
 # Cloner ou télécharger
